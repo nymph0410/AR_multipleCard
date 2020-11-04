@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.33642587, g: 0.42309523, b: 0.4604494, a: 1}
+  m_IndirectSpecularColor: {r: 0.6455084, g: 0.8090807, b: 0.88330144, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -130,7 +130,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 902eedcaf6164ab4aa84bee782b015a5, type: 3}
       propertyPath: m_Name
-      value: BeholderMesh
+      value: "\u7D30\u83CC"
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 902eedcaf6164ab4aa84bee782b015a5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -191,7 +191,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100004, guid: ca0980e90982fe6468542f951647d58c, type: 3}
       propertyPath: m_Name
-      value: ChestMonsterMesh
+      value: "\u5BF6\u7BB1"
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: ca0980e90982fe6468542f951647d58c, type: 3}
       propertyPath: m_LocalPosition.x
